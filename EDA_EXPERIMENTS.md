@@ -1,4 +1,5 @@
-# EDA EXPERIMENTS
+# EDA_EXPERIMENTS.md
+## TeamIOTA - Pranav Birari, Vedant Patil
 
 ---
 
